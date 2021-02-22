@@ -8,3 +8,52 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1613998883281	geckodriver	INFO	Listening on 127.0.0.1:49792
+1613998886371	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileLQgZRs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613998889352	Marionette	INFO	Listening on port 49801
+1613998889668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613998889709	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1613998894452	Marionette	INFO	Stopped listening on port 49801
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613999006494	geckodriver	INFO	Listening on 127.0.0.1:49878
+1613999009549	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileAXBwwx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613999012416	Marionette	INFO	Listening on port 49886
+1613999012834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613999012866	Marionette	ERROR	[15] No reply from Marionette:Register
+1613999088226	Marionette	INFO	Stopped listening on port 49886
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613999244122	geckodriver	INFO	Listening on 127.0.0.1:50021
+1613999247197	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileln2o0q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613999250323	Marionette	INFO	Listening on port 50033
+1613999250511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613999250542	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1613999260933	Marionette	INFO	Stopped listening on port 50033
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613999428203	geckodriver	INFO	Listening on 127.0.0.1:50140
+1613999431251	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofile8FAcqn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613999434043	Marionette	INFO	Listening on port 50150
+1613999434471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613999434488	Marionette	ERROR	[15] No reply from Marionette:Register
+1613999434617	Marionette	INFO	Stopped listening on port 50150
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
