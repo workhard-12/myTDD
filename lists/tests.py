@@ -11,9 +11,16 @@ class HomePageTest(TestCase):
         self.assertEqual(found.func, home_page) 
  
     def test_home_page_returns_correct_html(self): 
-        request = HttpRequest() #➊ 
-        response = home_page(request) #➋ 
-        self.assertTrue(response.content.startswith(b'<html>')) #➌ 
-        self.assertIn(b'<title>To-Do lists</title>', response.content) #➍ 
-        self.assertTrue(response.content.endswith(b'</html>')) #➎
+        response=self.client.get('/')
+
+        html=response.content.decode('utf8')
+        self.assertTrue(html.startswith('<html>'))
+        self.assertIn('<title>To-Do lists</title>',html)
+        self.assertTrue(html.strip().endswith('</html>'))
+
+        self.assertTemplateUsed(response,'home.html')
+
+    def test_uses_home_template(self):
+        response=self.client.get('/')
+        self.assertTemplateUsed(response,'home.html')
 
