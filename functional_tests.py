@@ -1,16 +1,16 @@
 from selenium import webdriver 
 from selenium.webdriver.common.keys import Keys 
-import unittest 
+import unittest
 import time
- 
+
 class NewVisitorTest(unittest.TestCase): 
- 
+
     def setUp(self): 
-        self.browser = webdriver.Firefox()
- 
+        self.browser = webdriver.Firefox() 
+
     def tearDown(self): 
         self.browser.quit() 
- 
+
     def test_can_start_a_list_and_retrieve_it_later(self): 
         # 伊迪丝听说有一个很酷的在线待办事项应用 
         # 她去看了这个应用的首页 
@@ -40,7 +40,8 @@ class NewVisitorTest(unittest.TestCase):
         table = self.browser.find_element_by_id('id_list_table') 
         rows = table.find_elements_by_tag_name('tr') 
         self.assertTrue( 
-            any(row.text == '1: Buy peacock feathers' for row in rows) 
+            any(row.text == '1: Buy peacock feathers' for row in rows), 
+            "New to-do item did not appear in table" 
         ) 
  
         # 页面中又显示了一个文本框， 可以输入其他的待办事项 
@@ -50,3 +51,6 @@ class NewVisitorTest(unittest.TestCase):
  
         # 页面再次更新， 她的清单中显示了这两个待办事项 
         [...]
+
+if __name__ == '__main__': #➐ 
+    unittest.main(warnings='ignore') #➑ 
