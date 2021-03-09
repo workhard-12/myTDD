@@ -990,3 +990,280 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "res
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1615282781420	geckodriver	INFO	Listening on 127.0.0.1:54978
+1615282784491	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofile4GRSXj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615282787560	Marionette	INFO	Listening on port 54988
+1615282787744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615282789065	Marionette	INFO	Stopped listening on port 54988
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615282790012	geckodriver	INFO	Listening on 127.0.0.1:55027
+1615282793064	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofiledaCNbz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615282796165	Marionette	INFO	Listening on port 55035
+1615282796297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615282796552	Marionette	INFO	Stopped listening on port 55035
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615282797594	geckodriver	INFO	Listening on 127.0.0.1:55065
+1615282800602	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileMkoYQT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615282803790	Marionette	INFO	Listening on port 55075
+1615282803837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615282804519	Marionette	INFO	Stopped listening on port 55075
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615282805393	geckodriver	INFO	Listening on 127.0.0.1:55109
+1615282808395	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileQ4eYm5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615282811539	Marionette	INFO	Listening on port 55118
+1615282811587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615282812291	Marionette	INFO	Stopped listening on port 55118
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615282901147	geckodriver	INFO	Listening on 127.0.0.1:55194
+1615282904170	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofilegEY1yt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615282907158	Marionette	INFO	Listening on port 55205
+1615282907391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615282908712	Marionette	INFO	Stopped listening on port 55205
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615282909725	geckodriver	INFO	Listening on 127.0.0.1:55238
+1615282912767	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileEZTII9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615282915706	Marionette	INFO	Listening on port 55246
+1615282915988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615282916267	Marionette	INFO	Stopped listening on port 55246
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615282917260	geckodriver	INFO	Listening on 127.0.0.1:55278
+1615282920291	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileXxI0tX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615282923243	Marionette	INFO	Listening on port 55286
+1615282923490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615282924176	Marionette	INFO	Stopped listening on port 55286
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615282925117	geckodriver	INFO	Listening on 127.0.0.1:55321
+1615282928178	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileszkCHL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615282931149	Marionette	INFO	Listening on port 55329
+1615282931376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615282932097	Marionette	INFO	Stopped listening on port 55329
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615294911949	geckodriver	INFO	Listening on 127.0.0.1:58634
+1615294914975	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileOxpr8L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615294918063	Marionette	INFO	Listening on port 58644
+1615294918215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615294919927	Marionette	INFO	Stopped listening on port 58644
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615294920914	geckodriver	INFO	Listening on 127.0.0.1:58677
+1615294923951	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofile9fyrPJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615294927153	Marionette	INFO	Listening on port 58685
+1615294927233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615294928087	Marionette	INFO	Stopped listening on port 58685
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615294929036	geckodriver	INFO	Listening on 127.0.0.1:58716
+1615294932038	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofile5SD3BI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615294935014	Marionette	INFO	Listening on port 58724
+1615294935251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615294935949	Marionette	INFO	Stopped listening on port 58724
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615294936872	geckodriver	INFO	Listening on 127.0.0.1:58750
+1615294939933	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileAS4o8y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615294942906	Marionette	INFO	Listening on port 58759
+1615294943128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615294943833	Marionette	INFO	Stopped listening on port 58759
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615295239915	geckodriver	INFO	Listening on 127.0.0.1:58891
+1615295242955	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileorUEZi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615295245968	Marionette	INFO	Listening on port 58900
+1615295246191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615295248107	Marionette	INFO	Stopped listening on port 58900
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615295249244	geckodriver	INFO	Listening on 127.0.0.1:58937
+1615295252284	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofile5zsbv1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615295255402	Marionette	INFO	Listening on port 58949
+1615295255587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615295256470	Marionette	INFO	Stopped listening on port 58949
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615295257655	geckodriver	INFO	Listening on 127.0.0.1:58985
+1615295260685	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileLaUA3B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615295263680	Marionette	INFO	Listening on port 58993
+1615295263952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615295264642	Marionette	INFO	Stopped listening on port 58993
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615295265695	geckodriver	INFO	Listening on 127.0.0.1:59025
+1615295268725	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileolXPfG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615295271688	Marionette	INFO	Listening on port 59036
+1615295271959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615295272699	Marionette	INFO	Stopped listening on port 59036
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615296638905	geckodriver	INFO	Listening on 127.0.0.1:59632
+1615296641940	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofilecfNmF4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615296645298	Marionette	INFO	Listening on port 59640
+1615296645752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615296647689	Marionette	INFO	Stopped listening on port 59640
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615296648606	geckodriver	INFO	Listening on 127.0.0.1:59676
+1615296651636	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofilehTvGKK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615296654723	Marionette	INFO	Listening on port 59687
+1615296654925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615296655744	Marionette	INFO	Stopped listening on port 59687
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615296656769	geckodriver	INFO	Listening on 127.0.0.1:59720
+1615296659788	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileK5ATzY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615296663047	Marionette	INFO	Listening on port 59728
+1615296663473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615296664157	Marionette	INFO	Stopped listening on port 59728
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615296665093	geckodriver	INFO	Listening on 127.0.0.1:59760
+1615296668129	mozrunner::runner	INFO	Running command: "D:\\火狐浏览器\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shier\\AppData\\Local\\Temp\\rust_mozprofileCL8I7u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615296671228	Marionette	INFO	Listening on port 59769
+1615296671408	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2068, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1615296672150	Marionette	INFO	Stopped listening on port 59769
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
